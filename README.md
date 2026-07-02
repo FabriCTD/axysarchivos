@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.fabrictd.com/mypyme/logoini.png" alt="MyPyME Logo" width="150"/>
+  <img src="https://mypyme.fabrictd.com/assets/instalador.png" alt="MyPyME Logo" width="150"/>
   <h1>MyPyME ERP - Release Storage</h1>
   <p><strong>Repositorio Oficial de Binarios y Distribuciones (Production Releases)</strong></p>
 </div>
