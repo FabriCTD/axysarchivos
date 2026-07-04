@@ -8,7 +8,7 @@
 
 ## 📦 Acerca de este repositorio
 
-Este repositorio opera exclusivamente como el **Storage de Binarios Oficiales** para las versiones compiladas de **Axys ERP**. Aquí se alojan los instaladores `.exe` de producción que luego son distribuidos a los clientes a través del sitio web oficial: [Axys.fabrictd.com](https://axys.fabrictd.com).
+Este repositorio opera exclusivamente como el **Storage de Binarios Oficiales** para las versiones compiladas de **Axys ERP**. Aquí se alojan los instaladores `.exe` de producción que luego son distribuidos a los clientes a través del sitio web oficial: [axys.fabrictd.com](https://axys.fabrictd.com).
 
 > ⚠️ **ATENCIÓN:** Este repositorio **NO** contiene el código fuente de Axys ERP. Es de uso exclusivo para alojamiento de _releases_ (binarios, setups y parches de actualización) gestionados mediante Continuous Delivery y automatización por el Bot de Lanzamientos interno.
 
